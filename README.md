@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## What is this App?
+
+This is a basic react app 2 used props which is the one of the main features and getting data from another file.
+
+## Screenshot of App
+
+![image](https://user-images.githubusercontent.com/25801979/162004315-a0cc14e8-292f-4c9d-8dc0-594a6e8e7497.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
