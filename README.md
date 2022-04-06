@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## What is this App?
 
-This is a basic react app 2 used props which is the one of the main features and getting data from another file.
+This is a basic react app 2 used component, props and array.map  which are the one of the main features of react and also importing data from another file.
 
 ## Screenshot of App
 
